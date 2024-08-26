@@ -1,0 +1,10 @@
+{ "name": "index",
+"version": "1.0.0",
+"description": "",
+"main": "index.js",
+"type": "module",
+  "dependencies": {
+    "init": "^0.1.2",
+    "staruml-watermark-remover": "^1.0.1"
+  }
+}
